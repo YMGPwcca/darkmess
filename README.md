@@ -2,7 +2,7 @@
 
 A dark theme for new Messenger.com UI
 
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/spermlord/darkmess/master/darkmess.user.css)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/spermlord/darkmess/main/darkmess.user.css)
 
 ## Installation
 1. Get the [Stylus](https://github.com/openstyles/stylus) plugin:
