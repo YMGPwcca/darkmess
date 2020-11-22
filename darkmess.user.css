@@ -3,7 +3,7 @@
     @name         DarkMess
     @description  A dark theme for new Messenger.com UI
     @namespace    https://github.com/spermlord
-    @version      1.0.2
+    @version      1.0.3
     @license      GNU GPLv3
     @author       SpermLord
     @homepageURL  https://github.com/spermlord/darkmess
@@ -46,7 +46,7 @@
 		border-radius: 100px;
 	}
 
-	.sp_P-RBlI2wvIs, .sp_P-RBlI2wvIs.sx_266822, .sp_P-RBlI2wvIs.sx_45633c, .sp_e_QgnUmSicm {
+	.sp_P-RBlI2wvIs, .sp_P-RBlI2wvIs.sx_266822, .sp_P-RBlI2wvIs.sx_45633c, .sp_e_QgnUmSicm, .sp_UGWRdXW4ZCa {
 		filter: invert(1);
 	}
 
@@ -200,6 +200,9 @@
 	/* Menu */
 	div.oajrlxb2.g5ia77u1.qu0x051f.esr5mh6w.e9989ue4.r7d6kgcz.rq0escxv.nhd2j8a9.j83agx80.p7hjln8o.kvgmc6g5.oi9244e8.oygrvhab.h676nmdw.cxgpxx05.dflh9lhu.sj5x9vvc.scb9dxdr.i1ao9s8h.esuyzwwr.f1sip0of.lzcic4wl.l9j0dhe7.abiwlrkh.p8dawk7l.bp9cbjyn.dwo3fsh8.btwxx1t3.pfnyh3mw.du4w35lb {
 		fill: #fff
+	}
+	div.tojvnm2t.a6sixzi8.k5wvi7nf.q3lfd5jv.pk4s997a.bipmatt0.cebpdrjk.qowsmv63.owwhemhu.dp1hu0rb.dhp61c6y.l9j0dhe7.iyyx5f41.a8s20v7p {
+		fill: #fff;
 	}
 
 	/* Đính kèm file */
