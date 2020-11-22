@@ -3,7 +3,7 @@
     @name         DarkMess
     @description  A dark theme for new Messenger.com UI
     @namespace    https://github.com/spermlord
-    @version      1.0.3
+    @version      1.0.4
     @license      GNU GPLv3
     @author       SpermLord
     @homepageURL  https://github.com/spermlord/darkmess
@@ -85,6 +85,10 @@
 	._4f4q {
 		background: none;
 	}
+  
+  .tj6ad7yx {
+    background-color: #111;
+  }
 
 	/* Cài đặt thêm */
 	path[d='M7 18a2.75 2.75 0 115.5 0A2.75 2.75 0 017 18zm8.25 0a2.75 2.75 0 115.5 0 2.75 2.75 0 01-5.5 0zm8.25 0a2.75 2.75 0 115.5 0 2.75 2.75 0 01-5.5 0z'] {
